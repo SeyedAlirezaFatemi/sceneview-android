@@ -20,7 +20,7 @@ import com.google.android.filament.Entity
 import com.google.android.filament.LightManager
 import com.google.android.filament.View
 import com.google.android.filament.utils.HDRLoader
-import com.google.android.filament.utils.KTXLoader
+import com.google.android.filament.utils.KTX1Loader as KTXLoader
 import com.google.ar.sceneform.*
 import com.google.ar.sceneform.collision.CollisionSystem
 import com.google.ar.sceneform.rendering.Renderer
